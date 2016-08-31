@@ -28,7 +28,6 @@ brew cowsay
 brew fortune
 brew gdbm
 brew git
-brew haxe
 brew libyaml
 brew mackup
 brew mas
