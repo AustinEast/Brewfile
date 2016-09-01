@@ -9,7 +9,9 @@ cask flash
 cask flux
 cask google-chrome
 cask itch
+cask java
 cask macdown
+cask netbeans
 cask slack
 cask spectacle
 cask spotify-notifications
@@ -38,6 +40,7 @@ brew openssl
 brew pcre
 brew readline
 brew ruby
+brew thefuck
 brew zsh
 
 tap rcmdnk/file
