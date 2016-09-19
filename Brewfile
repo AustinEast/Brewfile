@@ -25,6 +25,7 @@ cask steam
 cask sublime-text
 cask tiled
 cask transmission
+cask unity-web-player
 cask unity
 cask virtualbox
 cask vlc-webplugin
@@ -40,6 +41,7 @@ brew cowsay
 brew fortune
 brew gdbm
 brew git
+brew haxe
 brew libyaml
 brew mackup
 brew mas
