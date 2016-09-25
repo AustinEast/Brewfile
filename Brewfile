@@ -2,43 +2,17 @@
 # tap repositories and their packages
 
 tap caskroom/cask
-cask bartender
-cask ccleaner
-cask daisydisk
-cask discord
-cask dropbox
-cask flash-player-debugger
-cask flash
-cask flux
-cask google-chrome
-cask itch
-cask iterm2
-cask java
-cask licecap
-cask macdown
-cask netbeans
-cask openemu
-cask screencast
-cask slack
-cask spectacle
-cask spotify-notifications
-cask spotify
-cask steam
-cask sublime-text
-cask tiled
-cask transmission
-cask unity-web-player
-cask unity
-cask virtualbox
-cask vlc-webplugin
-cask vlc
-cask xbox360-controller-driver
 
 tap homebrew/bundle
 
 tap homebrew/core
+
+tap rcmdnk/file
+
+# Other Homebrew packages
 brew archey
 brew bdw-gc
+brew brew-file
 brew cowsay
 brew fortune
 brew gdbm
@@ -62,8 +36,38 @@ brew thefuck
 brew xz
 brew zsh
 
-tap rcmdnk/file
-brew brew-file
+# Cask applications
+cask bartender
+cask ccleaner
+cask daisydisk
+cask discord
+cask dropbox
+cask flash
+cask flash-player-debugger
+cask flux
+cask google-chrome
+cask itch
+cask iterm2
+cask java
+cask licecap
+cask macdown
+cask netbeans
+cask openemu
+cask screencast
+cask slack
+cask spectacle
+cask spotify
+cask spotify-notifications
+cask steam
+cask sublime-text
+cask tiled
+cask transmission
+cask unity
+cask unity-web-player
+cask virtualbox
+cask vlc
+cask vlc-webplugin
+cask xbox360-controller-driver
 
 # App Store applications
 appstore 641027709 Color Picker
