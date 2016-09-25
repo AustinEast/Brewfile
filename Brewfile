@@ -17,6 +17,8 @@ cask java
 cask licecap
 cask macdown
 cask netbeans
+cask openemu
+cask screencast
 cask slack
 cask spectacle
 cask spotify-notifications
