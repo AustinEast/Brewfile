@@ -8,8 +8,6 @@ cask ccleaner
 cask daisydisk
 cask discord
 cask dropbox
-cask flash-player-debugger
-cask flash
 cask flux
 cask google-chrome
 cask itch
@@ -78,7 +76,13 @@ brew zsh
 tap rcmdnk/file
 brew brew-file
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask flash (!)
+#cask flash-player-debugger (!)
+
 # App Store applications
-appstore 641027709 Color Picker (1.4.3)
+appstore 641027709 Color Picker (1.4.5)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 497799835 Xcode (8.0)
+appstore 497799835 Xcode (8.1)
